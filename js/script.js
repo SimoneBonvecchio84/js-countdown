@@ -20,8 +20,8 @@ const clock = setInterval(function(){
     happyYear.innerHTML = countentMess;
     clearInterval(clock)
     
-    
-   }
+   } 
+
    console.log(countD)
 },1000);
     
